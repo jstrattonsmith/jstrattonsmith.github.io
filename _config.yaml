@@ -1,0 +1,66 @@
+# Site settings
+title: "Jeremy Stratton-Smith"
+name: "Jeremy Stratton-Smith"
+description: "PhD student in Computer Science · Programming Language Theory · Formal Methods"
+url: "https://jstrattonsmith.github.io"
+baseurl: "" # Important for GitHub Pages with user/organization repo
+repository: "jstrattonsmith/jstrattonsmith.github.io"
+
+# Theme settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: null # needed to avoid conflicts
+
+# Author settings
+author:
+  name: "Jeremy Stratton-Smith"
+  avatar: "/assets/images/avatar.jpg" # Optional profile picture
+  bio: "PhD student researching programming language theory and formal verification."
+  location: "Rochester, NY"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:your.email@example.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/jstrattonsmith"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/your-linkedin-handle"
+
+# Navigation links
+header_pages:
+  - _pages/about.md
+  - _pages/cv.md
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Defaults for layout
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+
+# Footer links (optional)
+footer:
+  links:
+    - label: "GitHub"
+      url: "https://github.com/jstrattonsmith"
+    - label: "LinkedIn"
+      url: "https://linkedin.com/in/your-linkedin-handle"
+    - label: "Email"
+      url: "mailto:your.email@example.com"
+
+# Optional blog settings (can be disabled)
+paginate: 0
+paginate_path: "/page:num/"
