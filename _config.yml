@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Jeremy Stratton-Smith # the main title
 
-tagline: Blog # it will display as the subtitle
+tagline: jnstrattonsmith[at][gmail] # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Personal website for resume and blogging.
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Jeremy Stratton-Smith
-  email: jnstrattonsmith@gmail.com # change to your email address
+  email: jnstrattonsmith[at]gmail # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage

@@ -11,6 +11,8 @@ My academic interests are
 - logical foundations of mathematics
 - theorem proving
 
+I like programming in any of Python, Java, SML, Wolfram Language (Mathematica) and hope to learn Haskell and OCaml soon.
+
 Outside of work I am interested and/or involved in community building, LGBTQ advocacy, vegetarian cooking and board games.
 
 See [my full CV](/cv/) for more of what I have been doing.
