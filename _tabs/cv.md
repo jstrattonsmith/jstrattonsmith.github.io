@@ -30,6 +30,8 @@ order: 2
 - [Edge corrections to electromagnetic Casimir energies from general-purpose Mathieu-function routines](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.91.012501), under the supervision of Dr. Noah Graham, Middlebury College, Physics Department (2016)
 
 ## Volunteering
+#### [Code to PhD](https://codetophd.github.io/)
+- Mentor underrepresented students applying to computer science PhD programs (2025)
 #### [Third Presbyterian Church](https://www.thirdpresbyterian.org/), Rochester, NY
 - Clerk of Session (2023-2025)
 - More Light Committee Chair (2022)
