@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Jeremy Stratton-Smith # the main title
 
-tagline: Personal Blog # it will display as the subtitle
+tagline: Blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Personal website for resume and blogging.
