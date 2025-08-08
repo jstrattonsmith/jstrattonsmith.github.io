@@ -11,4 +11,4 @@ My primary interests are
 - logical foundations of mathematics
 - theorem proving
 
-See [my full CV](../_tabs/cv.md) for more of what I have been doing.
+See [my full CV](/cv/) for more of what I have been doing.
