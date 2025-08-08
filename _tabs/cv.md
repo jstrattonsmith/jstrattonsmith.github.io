@@ -11,7 +11,7 @@ order: 2
 - Masters coursework in Computer Science (2024-25)
 
 ##### Middlebury College
-- Bachelor of Arts in Mathematics, *summa cum laude*, GPA: 3.82/4.00
+- Bachelor of Arts in Mathematics, *summa cum laude*
 
 ## Teaching & Work
 ##### Rochester Institute of Technology
