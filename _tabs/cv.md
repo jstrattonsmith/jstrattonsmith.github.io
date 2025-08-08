@@ -13,7 +13,7 @@ Rochester Institute of Technology
 Middlebury College
 - Bachelor of Arts in Mathematics, *summa cum laude*, GPA: 3.82/4.00
 
-## Work
+## Teaching & Work
 Rochester Institute of Technology
 - Graduate Teaching Assistant, Computer Science 1 (2025)
 
@@ -30,3 +30,4 @@ Wolfram Research (2018-present)
 ## Volunteering
 [Third Presbyterian Church](https://www.thirdpresbyterian.org/), Rochester, NY
 - Clerk of Session (2023-2025)
+- More Light Committee Chair (2022)
