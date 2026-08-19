@@ -9,9 +9,12 @@ with (import <nixpkgs> {}); let
 in
   stdenv.mkDerivation {
     name = "jstrattonsmith.github.io";
-    buildInputs = [env ruby];
+    buildInputs = [env ruby bundler bundix];
 
     shellHook = ''
-      exec ${env}/bin/jekyll serve --watch
+      echo "jstrattonsmith.github.io dev shell"
+      echo "  ./tools/run.sh                          # serve at localhost:4000 with live reload"
+      echo "  ./tools/test.sh                          # production build + htmlproofer"
+      echo "  bundle lock && bundix                    # after editing Gemfile, then re-enter nix-shell"
     '';
   }
