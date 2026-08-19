@@ -23,7 +23,9 @@ order: 2
 - Wolfram Summer Research Program; Academic Director (Spring & Summer 2020), Mentor (Summers of 2019, 2022)
 
 # Conferences & Workshops
-- [Oregon Programming Languages Summer School](https://www.cs.uoregon.edu/research/summerschool/summer25/index.php) (Summer 2025)
+- Presented work on mechanizing effective inseparability at Upstate PL ([Summer 2026](https://cse.buffalo.edu/upstate-pl/))
+- Oregon Programming Languages Summer School ([Summer 2025](https://www.cs.uoregon.edu/research/summerschool/summer25/index.php), [Summer 2026](https://www.cs.uoregon.edu/research/summerschool/summer26/index.php))
+- Attended International Conference on Functional Programming (ICFP) / SPLASH, including the Programming Languages Mentoring Workshop (PLMW) (October 2025)
 - [Undergraduate Workshop in Supersymmetry](https://public.websites.umich.edu/~uaw/supersymmetry/) (Summer 2016)
 
 # Research
