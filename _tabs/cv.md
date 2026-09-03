@@ -13,6 +13,9 @@ order: 2
 ### Middlebury College
 - Bachelor of Arts in Mathematics, *summa cum laude* (2013 --- 2017)
 
+# Languages
+Rocq, OCaml, Wolfram Language, Racket, SML, Python, Java
+
 # Teaching & Work
 #### Rochester Institute of Technology
 - Graduate Research Assistant, (Summer 2025 --- present)
